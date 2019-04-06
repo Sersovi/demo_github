@@ -1,3 +1,4 @@
+# Cambio hecho localmente
 # Dentro del directorio root del projecto
 git status (ver el estado de tu projecto git)
 git log (Historial de todos los commits)
